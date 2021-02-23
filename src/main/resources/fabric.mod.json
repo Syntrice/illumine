@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "illumine",
+  "version": "${version}",
+  "name": "Illumine",
+  "description": "A Minecraft Fabric mod adding many new features.",
+  "authors": [
+    "Syntrice"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/illumine/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.syntrice.mc.illumine.client.IllumineClient"
+    ],
+    "main": [
+      "com.syntrice.mc.illumine.Illumine"
+    ]
+  },
+  "mixins": [
+    "illumine.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}
