@@ -6,10 +6,10 @@ import com.syntrice.mc.illumine.block.ModBlock;
 import com.syntrice.mc.illumine.item.Items;
 import com.syntrice.mc.illumine.item.ModItem;
 import net.minecraft.block.Block;
-import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
+
 
 /**
  * Responsible for registering additions added by the mod

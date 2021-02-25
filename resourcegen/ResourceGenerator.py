@@ -22,5 +22,10 @@ def simple_block(path1, name):
 simple_block("limestone", "Limestone")
 simple_block("polished_limestone", "Polished Limestone")
 simple_block("polished_limestone_bricks", "Polished Limestone Bricks")
+simple_block("chiseled_polished_limestone", "Chiseled Polished Limestone")
+simple_block("cracked_polished_limestone_bricks", "Cracked Polished Limestone Bricks")
+simple_block("marble", "Marble")
+simple_block("polished_marble", "Polished Marble")
+simple_block("polished_marble_bricks", "Polished Marble Bricks")
 
 rm.flush()
