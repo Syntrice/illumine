@@ -2,5 +2,10 @@
   "__comment__": "This file was automatically created by mcresources",
   "block.illumine.limestone": "Limestone",
   "block.illumine.polished_limestone": "Polished Limestone",
-  "block.illumine.polished_limestone_bricks": "Polished Limestone Bricks"
+  "block.illumine.polished_limestone_bricks": "Polished Limestone Bricks",
+  "block.illumine.chiseled_polished_limestone": "Chiseled Polished Limestone",
+  "block.illumine.cracked_polished_limestone_bricks": "Cracked Polished Limestone Bricks",
+  "block.illumine.marble": "Marble",
+  "block.illumine.polished_marble": "Polished Marble",
+  "block.illumine.polished_marble_bricks": "Polished Marble Bricks"
 }
