@@ -11,6 +11,5 @@ public class Illumine implements ModInitializer {
     public void onInitialize() {
         ModRegistry.registerItems();
         ModRegistry.registerBlocks();
-        ModRegistry.registerEntities();
     }
 }
